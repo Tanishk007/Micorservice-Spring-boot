@@ -194,5 +194,5 @@ Here are some potential areas for future improvements:
 - **Scaling Kafka**: Enhance Kafka’s scalability and resilience for handling a larger number of events.
 
 ## Contributors
-- Rahul Kasana - [LinkedIn](https://linkedin.com/in/your-profile)
+- Tanishk Aggarwal  - [LinkedIn](https://www.linkedin.com/in/tanishk-aggarwal-593b4316b/)
 - Other Contributor Name(s) (if applicable)
